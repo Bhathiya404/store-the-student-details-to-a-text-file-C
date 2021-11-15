@@ -4,7 +4,8 @@ In this program we can store the student details to a text file. User can input 
 
 details.txt file:
 
-                  This file creates by “program 1main.c”. This “details.txt” file include student id, name and student address that user entered. If user enter details of more                       students that all data will save in this “details.txt” file.
+                  This file creates by “program 1main.c”. This “details.txt” file include student id, name and student address that user entered. 
+                  If user enter details of more students that all data will save in this “details.txt” file.
                   
                   
                   
